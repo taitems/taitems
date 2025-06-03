@@ -1,5 +1,7 @@
 ### Hi there, I'm Tait Brown 👋
 
+Currently building [Cuttable](https://cuttable.com) and [Glen Medicine](https://glenmedicine.com).
+
 Open source software powers the world, and I'm proud to contribute. 
 
 I don't get much time to write code any more, but here some of my most notable/downloaded projects.
